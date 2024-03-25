@@ -1,1 +1,1 @@
-# react-vite-ecommerce-webapp
+# Shop.co Ecommerce WebApp
