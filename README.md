@@ -1,1 +1,1 @@
-# Shop.co Ecommerce WebApp
+# Shop.co E-commerce Application
